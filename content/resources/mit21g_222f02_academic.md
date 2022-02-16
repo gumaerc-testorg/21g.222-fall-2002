@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding academic language.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-222-expository-writing-for-bilingual-students-fall-2002/7a05942177c294b26d1e9bb1783a0180_MIT21G_222F02_academic.pdf
+file: /media/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/7a05942177c294b26d1e9bb1783a0180_MIT21G_222F02_academic.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Academic language
 uid: 7a059421-77c2-94b2-6d1e-9bb1783a0180

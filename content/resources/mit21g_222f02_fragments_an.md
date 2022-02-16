@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information regarding fragments and run-together
   sentences (RTS).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-222-expository-writing-for-bilingual-students-fall-2002/65bd39faea01381914c894804c163c88_MIT21G_222F02_fragments_an.pdf
+file: /media/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/65bd39faea01381914c894804c163c88_MIT21G_222F02_fragments_an.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Fragments and Run-Together Sentences (RTS)
 uid: 65bd39fa-ea01-3819-14c8-94804c163c88
