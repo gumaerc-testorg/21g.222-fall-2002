@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 39e43224-831d-52d0-5d68-10c9f61464d4
 resourcetype: Document
 title: Clarityconc 2000
 uid: eecf9108-f8e8-86f7-fe9c-a9881ccef8e4

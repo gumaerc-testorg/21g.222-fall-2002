@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 39e43224-831d-52d0-5d68-10c9f61464d4
 resourcetype: Document
 title: Argument - conditionals
 uid: 2727cb5a-c3be-c91d-e152-6b1a50a7358c

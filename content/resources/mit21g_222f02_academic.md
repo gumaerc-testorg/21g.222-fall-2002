@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 39e43224-831d-52d0-5d68-10c9f61464d4
 resourcetype: Document
 title: Academic language
 uid: 7a059421-77c2-94b2-6d1e-9bb1783a0180

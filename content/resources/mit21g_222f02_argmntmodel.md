@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 39e43224-831d-52d0-5d68-10c9f61464d4
 resourcetype: Document
 title: 'Argument - model topic #4F4DD'
 uid: c761ea54-44c6-3d62-6234-30ca053902df

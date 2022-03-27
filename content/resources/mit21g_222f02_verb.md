@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 39e43224-831d-52d0-5d68-10c9f61464d4
 resourcetype: Document
 title: 'Verb tense trouble spots: Tense shifting in narrative'
 uid: 6ca7d4ad-0461-2bb8-735e-ae5b19863d75

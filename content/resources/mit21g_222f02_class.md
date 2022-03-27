@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 43107ced-e778-1369-637b-b5a4181286a2
 resourcetype: Document
 title: Expository Writing for Bilingual Students
 uid: 71bc1f74-704b-0ad6-9000-50954955cca0
