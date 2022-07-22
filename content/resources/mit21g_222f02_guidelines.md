@@ -5,6 +5,7 @@ description: 'This resource contains information regarding general guidelines: C
 file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/22d700f7dcbd218a56f7ea1a0bd35067_MIT21G_222F02_guidelines.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'General Guidelines: Clarity and Concision'
 uid: 22d700f7-dcbd-218a-56f7-ea1a0bd35067
 ---
 This resource contains information regarding general guidelines: Clarity and concision.
-
