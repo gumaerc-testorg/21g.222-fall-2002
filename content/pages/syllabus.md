@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 43107ced-e778-1369-637b-b5a4181286a2
 ---
@@ -12,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Course Overview
 ---------------
 
-Syllabus ([PDF]({{< baseurl >}}/resources/mit21g_222f02_class))
+Syllabus ({{% resource_link 71bc1f74-704b-0ad6-9000-50954955cca0 "PDF" %}})
 
 Course Description
 ------------------
