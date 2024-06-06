@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding surrogacy-questions.
 file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/34ceb64b52ce6cf2fb59719da869bb91_MIT21G_222F02_Surrogacy.pdf
+file_size: 108234
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding defining a concept.
 file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/031b0b36106510f03dffbbd0b69dcf69_MIT21G_222F02_definingsent.pdf
+file_size: 570100
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
