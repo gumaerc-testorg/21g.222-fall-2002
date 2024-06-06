@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding coordination: Conjunctions.'
 file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/d365b1df7ebb8adb5ff478f122f34c86_MIT21G_222F02_Coordinatn_i.pdf
+file_size: 110241
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
