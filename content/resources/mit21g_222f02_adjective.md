@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding adjective clause punctuation.
-file: /ol-ocw-studio-app/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/1f65f94c1ef6a3542ee1cbadf907c149_MIT21G_222F02_adjective.pdf
+file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/1f65f94c1ef6a3542ee1cbadf907c149_MIT21G_222F02_adjective.pdf
 file_size: 112420
 file_type: application/pdf
 learning_resource_types: []

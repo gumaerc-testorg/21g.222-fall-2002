@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding clarityconc 2000.
-file: /ol-ocw-studio-app/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/eecf9108f8e886f7fe9ca9881ccef8e4_MIT21G_222F02_clarity2000.pdf
+file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/eecf9108f8e886f7fe9ca9881ccef8e4_MIT21G_222F02_clarity2000.pdf
 file_size: 92339
 file_type: application/pdf
 learning_resource_types: []
