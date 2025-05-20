@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding academic language.
-file: /ol-ocw-studio-app/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/7a05942177c294b26d1e9bb1783a0180_MIT21G_222F02_academic.pdf
+file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/7a05942177c294b26d1e9bb1783a0180_MIT21G_222F02_academic.pdf
 file_size: 110218
 file_type: application/pdf
 learning_resource_types: []

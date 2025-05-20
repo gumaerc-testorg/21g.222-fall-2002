@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding coordination and subordination;
   Writing interesting sentences.
-file: /ol-ocw-studio-app/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/b18426cac2c1bde9cfcbf942ac3d1c66_MIT21G_222F02_Coordination.pdf
+file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/b18426cac2c1bde9cfcbf942ac3d1c66_MIT21G_222F02_Coordination.pdf
 file_size: 107607
 file_type: application/pdf
 learning_resource_types: []
