@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding expository writing for bilingual
   students.
-file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/71bc1f74704b0ad6900050954955cca0_MIT21G_222F02_Class.pdf
+file: /ol-ocw-studio-app/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/71bc1f74704b0ad6900050954955cca0_MIT21G_222F02_Class.pdf
 file_size: 670744
 file_type: application/pdf
 learning_resource_types: []
