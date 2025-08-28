@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding general guidelines: Clarity
   and concision.'
-file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/22d700f7dcbd218a56f7ea1a0bd35067_MIT21G_222F02_guidelines.pdf
+file: /ol-ocw-studio-app/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/22d700f7dcbd218a56f7ea1a0bd35067_MIT21G_222F02_guidelines.pdf
 file_size: 135063
 file_type: application/pdf
 learning_resource_types: []

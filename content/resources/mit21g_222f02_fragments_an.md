@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding fragments and run-together
   sentences (RTS).
-file: /courses/21g-222-expository-writing-for-bilingual-students-fall-2002/65bd39faea01381914c894804c163c88_MIT21G_222F02_fragments_an.pdf
+file: /ol-ocw-studio-app/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/65bd39faea01381914c894804c163c88_MIT21G_222F02_fragments_an.pdf
 file_size: 95922
 file_type: application/pdf
 learning_resource_types: []
