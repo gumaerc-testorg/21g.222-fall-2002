@@ -99,7 +99,7 @@ The phrases and sentences that we construct are our property. Using those of ano
 *   Do **not** go to the web to find book reviews already written about your book to "get ideas."
 *   Download and keep **all** sources you use for your position paper.
 
-MIT's academic honesty policy can be found at the following link: [http://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/](http://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/)
+MIT's academic honesty policy can be found at the following link: {{% resource_link "67a268eb-2c04-4700-bbc3-70d838c96163" "http://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/" %}}
 
 To Pass the Course and Receive CI Credit
 ----------------------------------------
